@@ -1,0 +1,2 @@
+C:\Users\USER\source\repos\Быстрое решение\Sklad\obj\Debug\Sklad.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Быстрое решение\Sklad\obj\Debug\Sklad.csproj.CoreCompileInputs.cache

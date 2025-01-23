@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\bin\Debug\Postavshik.exe.config
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\bin\Debug\Postavshik.exe
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\bin\Debug\Postavshik.pdb
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.Form1.resources
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.Properties.Resources.resources
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.exe
+C:\Users\USER\source\repos\Быстрое решение\Postavshik\obj\Debug\Postavshik.pdb
